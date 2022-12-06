@@ -72,6 +72,7 @@ git checkout ХХХХХХХ
 git checkout master
 Посмотреть разницу между текущим состоянием файла и которое сохранено
 git diff
+End.
 
 
 
