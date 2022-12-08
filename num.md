@@ -74,6 +74,8 @@ git checkout master
 git diff
 End.
 
+Эта информация добавлена из ветки lol.
+
 
 
 
